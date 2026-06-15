@@ -1,4 +1,22 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "prueba",
+      "name": "Seg5",
+      "template": {
+        "owner": "jfaranguren",
+        "repo": "MagicWorld",
+        "branch": "main"
+      },
+      "due": "2026-06-16T04:59:00Z",
+      "due_meta": {
+        "input": "2026-06-15T23:59:00-05:00",
+        "offset": "-05:00",
+        "source": "explicit-offset"
+      },
+      "mode": "individual",
+      "autograder": "default"
+    }
+  ]
 }
