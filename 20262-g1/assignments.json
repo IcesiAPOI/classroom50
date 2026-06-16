@@ -40,8 +40,8 @@
       "slug": "prueba-con-template",
       "name": "Prueba con Template",
       "template": {
-        "owner": "IcesiAPOI",
-        "repo": "jfaranguren/MagicWorld",
+        "owner": "jfaranguren",
+        "repo": "MagicWorld",
         "branch": "main"
       },
       "mode": "individual",
