@@ -1,4 +1,23 @@
 {
   "schema": "classroom50/scores/v1",
-  "submissions": {}
+  "submissions": {
+    "prueba-con-template": [
+      {
+        "schema": "classroom50/result/v1",
+        "classroom": "20262-g1",
+        "usernames": [
+          "ingri05"
+        ],
+        "submission": "submit/2026-06-16T20-12-39Z-3b52f0a",
+        "commit": "https://github.com/IcesiAPOI/20262-g1-prueba-con-template-ingri05/commit/3b52f0a9f2c74ef239c6a1ac9d7a972c2766570f",
+        "release": "https://github.com/IcesiAPOI/20262-g1-prueba-con-template-ingri05/releases/tag/submit%2F2026-06-16T20-12-39Z-3b52f0a",
+        "review": "https://github.com/IcesiAPOI/20262-g1-prueba-con-template-ingri05/compare/3ac75ba82dad4f81f5dc268c33323d8e37587a50...3b52f0a9f2c74ef239c6a1ac9d7a972c2766570f",
+        "datetime": "2026-06-16T20:12:57Z",
+        "score": 0,
+        "max-score": 0,
+        "tests": [],
+        "late": false
+      }
+    ]
+  }
 }
