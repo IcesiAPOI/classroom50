@@ -77,7 +77,7 @@
       "name": "Prueba de Seguimiento 2026-2",
       "mode": "individual",
       "autograder": "default",
-      "feedback_pr": true,
+      "feedback_pr": false,
       "template": {
         "owner": "jfaranguren",
         "repo": "MagicWorld",
