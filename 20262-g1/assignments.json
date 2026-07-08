@@ -1,35 +1,4 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": [
-    {
-      "slug": "prueba-de-seguimiento-2026-2",
-      "name": "Prueba de Seguimiento 2026-2",
-      "mode": "individual",
-      "autograder": "default",
-      "feedback_pr": false,
-      "template": {
-        "owner": "jfaranguren",
-        "repo": "MagicWorld",
-        "branch": "main"
-      },
-      "due": "2026-07-15T22:00:00Z",
-      "due_meta": {
-        "input": "2026-07-15T17:00:00",
-        "zone": "America/Bogota",
-        "offset": "-05:00",
-        "source": "auto-detected"
-      },
-      "runtime": {
-        "java": "17"
-      },
-      "tests": [
-        {
-          "name": "Compiles",
-          "type": "run",
-          "run": "javac -cp src src/ui/MagicWorldEjecutable -d bin",
-          "points": 10
-        }
-      ]
-    }
-  ]
+  "assignments": []
 }
